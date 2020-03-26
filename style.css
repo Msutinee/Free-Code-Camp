@@ -3,10 +3,9 @@
 
   
 body {
-  margin-top: 80px;
-  margin-left: 250px;
-  margin-right: 250px;
-  margin-bottom: 200px;
+  position: absolute;
+  left: 100px;
+  top: 150px;
   background-color: #FFFFFF;
   font-family: Arapey;
   font-size: 18px;
