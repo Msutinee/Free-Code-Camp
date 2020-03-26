@@ -1,0 +1,60 @@
+
+@import url('https://fonts.googleapis.com/css?family=Adamina|Arapey|Playfair+Display+SC&display=swap');
+
+  
+body {
+  margin-top: 80px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 200px;
+  background-color: #FFFFFF;
+  font-family: Arapey;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 300%;
+  text-align: center;
+  font-family: Playfair Display SC;
+}
+
+.blackline {
+  background-color: black;
+  padding: 3px;
+}
+
+h2 {
+  margin-top: 0px;
+  font-size: 27px;
+  text-align: center;
+  font-family: Playfair Display SC;
+}
+
+h3 {
+  font-size: 23px;
+  font-family: Playfair Display SC;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+ .image-caption {
+  text-align: center;
+  font-family: Adamina;
+  font-size: 15px;
+}
+.timeline {
+  font-family: Playfair Display SC;
+  font-size: 18px;
+}
+
+.quote {
+  text-align: right;
+  font-family: Playfair Display SC;
+}
+footer {
+  text-align: center;
+}
