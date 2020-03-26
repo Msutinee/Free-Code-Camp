@@ -4,8 +4,10 @@
   
 body {
   position: absolute;
-  left: 100px;
-  top: 150px;
+  left: 200px;
+  right: 200px;
+  top: 100px;
+  margin-bottom: 100px;
   background-color: #FFFFFF;
   font-family: Arapey;
   font-size: 18px;
