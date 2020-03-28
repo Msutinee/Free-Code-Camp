@@ -15,16 +15,16 @@
 }
   
 
-@media only screen and (min-width: 1240px) {
+@media only screen and (min-width: 1040px) {
     #top-part {
           margin: auto;
-          width: 95% !important;
+          width: 60% !important;
           padding: 10px;
           }
 
     #tribute-infor {
           margin: auto;
-          width: 95% !important;
+          width: 60% !important;
           padding: 10px;
           }
 }
