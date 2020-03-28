@@ -1,18 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Adamina|Arapey|Playfair+Display+SC&display=swap');
-  @media only screen and (min-width: 350px) {
-    h2 {width: 100%;}
-    .blackline {width: 100%;}
+
+@media only screen and (min-width: 350px) {
+    #top-part {
+          margin: auto;
+          width: 85% !important;
+          padding: 10px;
+          }
+
+    #tribute-infor {
+          margin: auto;
+          width: 85% !important;
+          padding: 10px;
+          }
 }
   
+
+@media only screen and (min-width: 1240px) {
+    #top-part {
+          margin: auto;
+          width: 60% !important;
+          padding: 10px;
+          }
+
+    #tribute-infor {
+          margin: auto;
+          width: 60% !important;
+          padding: 10px;
+          }
+}
 body {
   position: absolute;
-  left: 200px;
-  right: 200px;
-  top: 100px;
-  margin-bottom: 100px;
   background-color: #FFFFFF;
   font-family: Arapey;
   font-size: 18px;
+}
+a:link {
+  color: #525050;  
+}
+a:hover {
+  color: hotpink;
+}
+a:visited {
+  color: #525050;
 }
 
 h1 {
@@ -45,7 +74,8 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100%;
+  max-width: 100%;
+  hight: auto;
 }
 
  .image-caption {
@@ -53,6 +83,19 @@ img {
   font-family: Adamina;
   font-size: 15px;
 }
+
+#top-part {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
+#tribute-infor {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+}
+
 .timeline {
   font-family: Playfair Display SC;
   font-size: 18px;
@@ -64,14 +107,4 @@ img {
 }
 footer {
   text-align: center;
-}
-
-a:link {
-  color: #525050;  
-}
-a:hover {
-  color: hotpink;
-}
-a:visited {
-  color: #525050;
 }
