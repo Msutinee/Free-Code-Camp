@@ -3,13 +3,13 @@
 @media only screen and (min-width: 350px) {
     #top-part {
           margin: auto;
-          width: 85% !important;
+          width: 95% !important;
           padding: 10px;
           }
 
     #tribute-infor {
           margin: auto;
-          width: 85% !important;
+          width: 95% !important;
           padding: 10px;
           }
 }
