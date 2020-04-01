@@ -10,15 +10,15 @@ body {
 }
 a:link {
   color: #525050;
-  text-decoration: none
+  text-decoration: none;
 }
 a:hover {
   color: hotpink;
-  text-decoration: none
+  text-decoration: none;
 }
 a:visited {
   color: #525050;
-  text-decoration: none
+  text-decoration: none;
 }
 
 h1 {
