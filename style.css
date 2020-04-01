@@ -1,33 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Adamina|Arapey|Playfair+Display+SC&display=swap');
 
-@media only screen and (min-width: 350px) {
-    #top-part {
-          margin: auto;
-          width: 95% !important;
-          padding: 10px;
-          }
 
-    #tribute-infor {
-          margin: auto;
-          width: 95% !important;
-          padding: 10px;
-          }
-}
   
-
-@media only screen and (min-width: 1040px) {
-    #top-part {
-          margin: auto;
-          width: 60% !important;
-          padding: 10px;
-          }
-
-    #tribute-infor {
-          margin: auto;
-          width: 60% !important;
-          padding: 10px;
-          }
-}
 body {
   position: absolute;
   background-color: #FFFFFF;
@@ -35,13 +9,16 @@ body {
   font-size: 18px;
 }
 a:link {
-  color: #525050;  
+  color: #525050;
+  text-decoration: none
 }
 a:hover {
   color: hotpink;
+  text-decoration: none
 }
 a:visited {
   color: #525050;
+  text-decoration: none
 }
 
 h1 {
